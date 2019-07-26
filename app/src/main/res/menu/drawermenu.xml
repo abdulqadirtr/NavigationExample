@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/db" android:title="dashboard" android:icon="@drawable/ic_dashboard_black_24dp"> </item>
+    <item android:id="@+id/events" android:title="Events" android:icon="@drawable/ic_event_black_24dp"> </item>
+    <item android:id="@+id/search" android:title="Search" android:icon="@drawable/ic_find_in_page_black_24dp"> </item>
+    <item android:id="@+id/setting" android:title="Settings" android:icon="@drawable/ic_settings_black_24dp"> </item>
+    <item android:id="@+id/activities" android:title="Activities" android:icon="@drawable/ic_insert_emoticon_black_24dp"> </item>
+</menu>
