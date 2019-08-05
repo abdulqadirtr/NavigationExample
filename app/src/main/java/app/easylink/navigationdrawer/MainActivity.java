@@ -46,14 +46,7 @@ public class MainActivity extends AppCompatActivity  {
         if (t.onOptionsItemSelected(item)) {
             return true;
         }
-        switch (item.getItemId()) {
-            case R.id.events:
-               // Toast.makeText(this, "Hello Welcome This is Events", Toast.LENGTH_LONG).show();
 
-                break;
-
-
-        }
         return super.onOptionsItemSelected(item);
 
     }
